@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 10px;
+}
+.all
+{
+    background-color:rgba(255, 235, 205, 0.721);
+    text-align: center;
+}
+.hed{
+    
+    font-size: 3em;
+    text-decoration: underline solid rgb(104, 125, 189);
+}
+.img1{
+   height: 350px;
+   display: inline-block;
+
+}
+
+.hed1{
+    color: black;
+    text-align: center;
+    text-shadow: 3px 2px 3px rgb(134, 130, 252);
+}
+.title{
+    background-color: rgb(209, 166, 166);
+    text-align: left;
+    border: 1px solid green;
+    box-shadow: 3px 2px 3px red;
+    margin: 10px 100px ;
+}
+.last{
+    font-size: larger;
+}
+.tag:hower{
+   cursor: pointer;
+   color: blue;
+}
+.tag:visited{
+    color:chartreuse
+}
+
